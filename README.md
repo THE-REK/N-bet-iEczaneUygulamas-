@@ -1,1 +1,1 @@
-# N-bet-iEczaneUygulamas-
+# Nöbetçi Eczane Uygulaması
